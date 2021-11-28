@@ -17,9 +17,7 @@
   
   <h2>Autores</h2>
  
-  <a href="https://github.com/Ceduda23"><h4>Cecília</h4>
-  <a href="https://github.com/Lindeia"><h4>Lindeia</h4>
-  <a href="https://github.com/yagohpt11221"><h4>Líder Yago</h4>
+  <a href="https://github.com/Ceduda23"><h4>Cecília</h4><h4>, </h4><a href="https://github.com/Lindeia"><h4>Lindeia</h4><h4>, </h4><a href="https://github.com/yagohpt11221"><h4>Líder Yago</h4>
 
 <!--<img src= "https://user-images.githubusercontent.com/90344096/143771913-e962e320-fc76-4326-9207-d37f990a8706.png"/>-->
 <!--adicionar imagem-->
