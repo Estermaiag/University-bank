@@ -1,7 +1,7 @@
 
   <meta charset="utf-8"/>
   
-  <img src= "https://user-images.githubusercontent.com/90344096/143772868-665fcec8-60e2-4886-b200-2b05fc388f86.png"/>
+  <img src= "https://user-images.githubusercontent.com/90344096/143773332-791f56fa-1c7c-4176-a8dd-3e8f4fdb7281.png"/>
   
   <h1>University Bank</h1>
   
