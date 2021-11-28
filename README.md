@@ -17,7 +17,8 @@
   
   <h2>Autores</h2>
  
-  <a href="https://github.com/Ceduda23"><h4>Cecília</h4> <a href="https://github.com/Lindeia"><h4>Lindeia</h4>
+  <a href="https://github.com/Ceduda23"><h4>Cecília</h4>
+  <a href="https://github.com/Lindeia"><h4>Lindeia</h4>
   
  
 
