@@ -11,8 +11,9 @@
   
   <h4>O UniversityBank e uma iniciativa voltada para a acessibilidade estudantil, visando gerar mais oportunidades e cuidar da saúde financeira e acadêmica de nossos clientes.<br><br>Financiamentos e ajudas de custos são um dos varios recursos que pretendemos implantar parar gerar mais profissionais para o mercado de trabalho. Visando com que o cliente se preocupe apenas com a sua vida academica.<br><br>Criando um ecosistema onde todos ganham, visando que o Brasil um dia seja referencia nesse tipo de investimento.</h4>
   
+  <h2>Requisitos funcionais</h2>
   
-  
+  <h4>✅Gerenciamento de usuários<br>✅Dados pessoais<br>✅Consultoria de financiamento<br>✅Relatório<br>✅Atendentes com suporte ao usuário<br>✅Formalização do contrato<br>✅Cadastramento da biometria</h4>
  
 
 <!--<img src= "https://user-images.githubusercontent.com/90344096/143771913-e962e320-fc76-4326-9207-d37f990a8706.png"/>-->
