@@ -17,11 +17,8 @@
   
   <h2>Autores</h2>
  
-  <a href="https://github.com/Ceduda23"><h4>Cecília</h4>
-  <a href="https://github.com/Lindeia"><h4>Lindeia</h4>
-  <a href="https://github.com/yagohpt11221"><h4>Líder Yago</h4>
-  <a href="https://github.com/Gabriel21Oliver"><h4>Gabriel</h4>
-  <a href="https://github.com/Estermaiag"><h4>Ester</h4>
+  <a href="https://github.com/Ceduda23">
+  <h4>Cecília</h4>
     
  
 
