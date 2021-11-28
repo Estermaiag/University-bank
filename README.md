@@ -19,6 +19,9 @@
  
   <a href="https://github.com/Ceduda23">Cecília
   <a href="https://github.com/Lindeia">Lindeia
+  <a href="https://github.com/yagohpt11221">Líder Yago
+  <a href="https://github.com/Gabriel21Oliver">Gabriel
+  <a href="https://github.com/Estermaiag">Ester
 
 <!--<img src= "https://user-images.githubusercontent.com/90344096/143771913-e962e320-fc76-4326-9207-d37f990a8706.png"/>-->
 <!--adicionar imagem-->
