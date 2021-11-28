@@ -1,6 +1,6 @@
 
 <head>
-  <img src="https://drive.google.com/file/d/1tMiU2WXKTInHfxvpttjCwRp37XIup5h2/view?usp=sharing"/>
+  <img src="https://photos.google.com/u/4/photo/AF1QipNA1P7151H25ov_3zBfcK8VdUmCkiovuY1FaIzi"/>
   <meta charset="utf-8"/>
   <h1>University Bank</h1>
   <h4>Banco com o propósito de ajudar os universitários na vida financeira, fornecendo créditos pra o estudante não ficar desamparado na sua vida acadêmica.<br><br>Projeto desenvolvido na UC de Modelagem de Software</h2>
