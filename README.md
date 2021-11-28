@@ -2,7 +2,7 @@
 <head>
   <meta charset="utf-8"/>
   <h1>University Bank</h1>
-  <h4>Banco com o propósito de ajudar os universitários na vida financeira, fornecendo créditos pra o estudante não ficar desamparado na sua vida acadêmica.<br>Projeto desenvolvido na UC de Modelagem de Software</h2> 
+  <h4>Banco com o propósito de ajudar os universitários na vida financeira, fornecendo créditos pra o estudante não ficar desamparado na sua vida acadêmica.<br><br>Projeto desenvolvido na UC de Modelagem de Software</h2> 
 </head>
 
  <body>
