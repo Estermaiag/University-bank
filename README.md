@@ -14,6 +14,10 @@
   <h2>Requisitos funcionais</h2>
   
   <h4>✅Gerenciamento de usuários<br>✅Dados pessoais<br>✅Consultoria de financiamento<br>✅Relatório<br>✅Atendentes com suporte ao usuário<br>✅Formalização do contrato<br>✅Cadastramento da biometria</h4>
+  
+  <h2>Autores</h2>
+  <h4>Cecília<a href=https://github.com/Ceduda23</a></h4>
+  
  
 
 <!--<img src= "https://user-images.githubusercontent.com/90344096/143771913-e962e320-fc76-4326-9207-d37f990a8706.png"/>-->
