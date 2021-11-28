@@ -22,6 +22,10 @@
   <a href="https://github.com/yagohpt11221">👨‍💻 Líder Yago
   <a href="https://github.com/Gabriel21Oliver">👨‍💻 Gabriel
   <a href="https://github.com/Estermaiag">👩‍💻 Ester
+    
+  <h2>Agradecimentos</h2>
+    
+  <h4>Agradecimento a toda equipe que participou e realizou o trabalho, com o apoio do professor responsável</h4>
 
 <!--<img src= "https://user-images.githubusercontent.com/90344096/143771913-e962e320-fc76-4326-9207-d37f990a8706.png"/>-->
 <!--adicionar imagem-->
