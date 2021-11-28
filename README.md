@@ -17,7 +17,7 @@
   
   <h2>Autores</h2>
  
-  <href="https://github.com/Ceduda23"><h4>Cecília</h4>
+  [URL="https://github.com/Ceduda23"]Cecília[/url]
 
 <!--<img src= "https://user-images.githubusercontent.com/90344096/143771913-e962e320-fc76-4326-9207-d37f990a8706.png"/>-->
 <!--adicionar imagem-->
